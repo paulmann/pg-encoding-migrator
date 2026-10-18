@@ -90,7 +90,7 @@ Remove-Item "C:\pg-migration\backup\myapp_win1251.dump"
 
 ## License
 
-MIT -- see [LICENSE](LICENSE)
+PolyForm Noncommercial 1.0.0 -- see [LICENSE](LICENSE)
 
 ## Author
 
